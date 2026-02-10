@@ -14,4 +14,5 @@ public class HealtPotion : ItemSO
             playerLife.CAmbiaVIta(playerLife.life);
         }
     }
+
 }

@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Knife
   m_EditorClassIdentifier: 
   nameItem: GrattaSchiena
-  description: "i giganti lo usano pre grattarsi la schine, per gli uomini \xE8 uno
-    spadone di 20kg"
+  description: "i giganti lo usano pre grattarsi la schiena, per gli uomini \xE8
+    uno spadone di 20kg"
   price: 20
   damage: 50

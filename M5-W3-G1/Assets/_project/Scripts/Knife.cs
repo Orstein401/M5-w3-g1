@@ -15,4 +15,5 @@ public class Knife : ItemSO
             playerLife.CAmbiaVIta(playerLife.life);
         }
     }
+
 }

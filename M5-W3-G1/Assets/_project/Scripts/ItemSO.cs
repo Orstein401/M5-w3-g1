@@ -10,4 +10,8 @@ public abstract class ItemSO : ScriptableObject
     [SerializeField] public float price;
 
     public abstract void UseItem(GameObject player);
+    public void DescriptionItem()
+    {
+        Debug.Log(description);
+    }
 }
