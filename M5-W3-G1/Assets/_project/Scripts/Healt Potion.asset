@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1f30f6614b368f4f81fc172a3220a57, type: 3}
+  m_Name: Healt Potion
+  m_EditorClassIdentifier: 
+  nameItem: pozione di cura debole
+  description: i ricchi la comprano a valanghe solo per il sapore
+  price: 10
+  cure: 25
